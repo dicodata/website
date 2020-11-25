@@ -1,18 +1,18 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Dico Data',
+  tagline: 'Ce glossaire donne les définitions des termes courants utilisés en data science',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/favicon.png',
+  organizationName: 'dicodata', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Dico Data',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Dico Data Logo',
+        src: 'img/logo_transparent.png',
       },
       items: [
         {

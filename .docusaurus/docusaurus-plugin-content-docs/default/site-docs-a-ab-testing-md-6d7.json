@@ -1,0 +1,22 @@
+{
+  "unversionedId": "A/AB_testing",
+  "id": "A/AB_testing",
+  "isDocsHomePage": false,
+  "title": "A/B Testing",
+  "description": "Méthode statistique de comparaison d'au moins deux techniques, généralement une technique en place et une nouvelle technique concurrente. Le test A/B vise non seulement à déterminer la technique la plus performante, mais aussi si la différence est statistiquement significative. Généralement, le test A/B compare deux techniques sur la base d'une seule mesure. Il peut cependant être appliqué à n'importe quel nombre fini de techniques et de mesures.",
+  "source": "@site/docs/A/AB_testing.md",
+  "slug": "/A/AB_testing",
+  "permalink": "/docs/A/AB_testing",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/A/AB_testing.md",
+  "version": "current",
+  "sidebar_label": "A/B Testing",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  },
+  "next": {
+    "title": "Backpropagation",
+    "permalink": "/docs/B/backpropagation"
+  }
+}

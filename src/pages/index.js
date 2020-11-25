@@ -8,27 +8,27 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Pourquoi Dico Data ?',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        L'idée derrière Dico Data est de centraliser toutes les défintions importantes
+        en data science.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Quels sont les domaines couverts dans ce glossaire ?',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Dans ce glossaire vous trouverez défintions concernant la data science. 
+       Chose qui implique qu'il y a aussi des défintions de machine learning, de statistiques.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Comment contribuer ?',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Aller sur le glossaire
             </Link>
           </div>
         </div>
