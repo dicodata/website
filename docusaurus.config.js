@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Dico Data',
   tagline: 'Ce glossaire donne les définitions des termes courants utilisés en data science',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://dicodata.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.png',
   organizationName: 'dicodata', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  projectName: 'dicodata.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Dico Data',
