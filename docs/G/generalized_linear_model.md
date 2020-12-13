@@ -1,6 +1,6 @@
 ---
 id: generalized_linear_model
-title: generalized_linear_model
+title: Generalized Linear Model
 sidebar_label: generalized_linear_model
 ---
 **Generalized linear model** (*modèle linéaire généralisé en français*) est une généralisation des modèles de régression des moindres carrés, qui sont basés sur le bruit gaussien, à d'autres types de modèles basés sur d'autres types de bruit, par exemple le bruit de grenaille ou le bruit catégorique. Exemples de modèles linéaires généralisés :
