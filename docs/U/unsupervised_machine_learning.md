@@ -1,6 +1,6 @@
 ---
 id: unsupervised_machine_learning
-title: unsupervised_machine_learning
+title: Unsupervised Machine Learning
 sidebar_label: unsupervised_machine_learning
 ---
 **Unsupervised Machine Learning** (*Machine Learning non supervisé en français*) est un entraînement d'un modèle pour détecter des schémas dans un ensemble de données, généralement sans étiquette.
