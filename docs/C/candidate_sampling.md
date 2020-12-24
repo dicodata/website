@@ -1,0 +1,6 @@
+---
+id: candidate_sampling
+title: Candidate sampling
+sidebar_label: candidate_sampling
+---
+**Candidate sampling** (*échantillonnage de candidats en français*) est une optimisation réalisée lors de l'apprentissage, dans laquelle une probabilité est calculée pour toutes les étiquettes positives, en utilisant par exemple softmax, mais seulement pour un échantillon aléatoire d'étiquettes négatives. Si un exemple est étiqueté beagle et chien, l'échantillonnage de candidats calcule les probabilités prédites et les termes de pertes correspondants pour les sorties de classe beagle et chien, en plus d'un sous-ensemble aléatoire des classes restantes (chat, sucette, clôture). Le but est que les classes négatives puissent apprendre à partir d'un renforcement négatif moins fréquent tant que les classes positives sont correctement renforcées positivement, ce qui est effectivement observé empiriquement. L'intérêt de l'échantillonnage des candidats est d'améliorer l'efficacité du calcul en ne calculant pas les prédictions pour tous les négatifs.
