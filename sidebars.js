@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     Docusaurus: ['intro'],
-    A: ['A/AB_testing'],
+    A: ['A/AB_testing', 'A/AdaGrad','A/AUC' ],
     B: ['B/backpropagation'],
     C: ['C/calibration_layer', 'C/candidate_sampling', 'C/categorical_data', 'C/centroid', 'C/checkpoint', 'C/class'],
     G: ['G/generalization', 'G/generalized_linear_model', 'G/gradient', 'G/gradient_clipping', 'G/gradient_descent', 'G/graph'],
