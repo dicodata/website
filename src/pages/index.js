@@ -32,8 +32,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Simple. Faire un fork du repo git, ajouter/modifier des défintions dans le dossier /docs et faire une pull request.
+        La démarche détaillée est présentée dans le fichier readMe. 
       </>
     ),
   },
